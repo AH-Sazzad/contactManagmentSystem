@@ -1,0 +1,95 @@
+/* Contact List Styles */
+#cover {
+   
+   
+  border-radius: 50%; 
+  width: 80px;       
+  height: 80px;      
+  object-fit: cover;  
+}
+
+
+.contact-avatar-mobile {
+   
+    object-fit: cover;
+    border: 2px solid #dee2e6;
+}
+
+.contact-row:hover {
+    background-color: #f8f9fa !important;
+}
+
+/* Table Styles */
+.table th {
+    border-top: none;
+    font-weight: 600;
+    color: #495057;
+    font-size: 0.9em;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+/* List Group Styles */
+.list-group-item {
+    border: 1px solid #e9ecef;
+    margin-bottom: 8px;
+    border-radius: 8px !important;
+    transition: all 0.2s;
+}
+
+.list-group-item:hover {
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    transform: translateY(-1px);
+}
+
+/* Search Highlight */
+mark.bg-warning {
+    background-color: #fff3cd !important;
+    padding: 1px 4px;
+    border-radius: 3px;
+    font-weight: bold;
+}
+
+/* Badge Styles */
+.badge {
+    font-size: 0.75em;
+    font-weight: 500;
+}
+
+/* Responsive Table */
+.table-responsive {
+    border-radius: 8px;
+    overflow: hidden;
+    box-shadow: 0 1px 3px rgba(0,0,0,0.1);
+}
+
+/* Empty State */
+.text-center.py-5 {
+    background: linear-gradient(135deg, #f8f9fa 0%, #e9ecef 100%);
+}
+
+/* Button Styles */
+.btn-sm {
+    font-size: 0.8em;
+    padding: 4px 8px;
+}
+
+/* Mobile Optimization */
+@media (max-width: 768px) {
+    .container {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+    
+    .list-group-item {
+        padding: 12px;
+    }
+    
+   #cover{
+     border-radius: 50%; 
+  width: 80px;       
+  height: 80px;      
+  object-fit: cover;
+    
+   }
+}

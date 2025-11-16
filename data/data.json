@@ -1,0 +1,56 @@
+[
+    {
+        "id": "JX8MKDTUUY",
+        "first_name": "Lionel",
+        "last_name": "Messi",
+        "phone": "0177657520",
+        "category": "friends",
+        "gender": "male",
+        "photo": "https:\/\/a.espncdn.com\/combiner\/i?img=\/i\/headshots\/soccer\/players\/full\/45843.png&w=350&h=254"
+    },
+    {
+        "id": "ZXZVWIKQSK",
+        "first_name": "Cristiano",
+        "last_name": "Ronaldo",
+        "phone": "01920829571",
+        "category": "friends",
+        "gender": "male",
+        "photo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/d7\/Cristiano_Ronaldo_playing_for_Al_Nassr_FC_against_Persepolis%2C_September_2023_%28cropped%29.jpg"
+    },
+    {
+        "id": "1UX5D92L8G",
+        "first_name": "Phil",
+        "last_name": "Foden",
+        "phone": "01660202300",
+        "category": "relatives",
+        "gender": "male",
+        "photo": "https:\/\/img.a.transfermarkt.technology\/portrait\/big\/406635-1668524492.jpg?lm=1"
+    },
+    {
+        "id": "QLL17MDNC3",
+        "first_name": "Ritu Porna",
+        "last_name": "Chakma",
+        "phone": "01928106020",
+        "category": "friends",
+        "gender": "female",
+        "photo": "https:\/\/encrypted-tbn0.gstatic.com\/images?q=tbn:ANd9GcRnM3jQDAEU3YZQhOiWJLhdCq8Ro-G5f9rkPzpMeXPcS4u_Jhb3F5rdy-vfT4WWWyGuKWHQNqmTTDQ6InZgJzA4BwotVFmj5DhbsEnNw3w&s=10"
+    },
+    {
+        "id": "EBX6P0R2YN",
+        "first_name": "Zinidin",
+        "last_name": "zidan",
+        "phone": "01830407234",
+        "category": "office",
+        "gender": "male",
+        "photo": "https:\/\/upload.wikimedia.org\/wikipedia\/commons\/thumb\/7\/7c\/Zidane_Zizu.jpg\/250px-Zidane_Zizu.jpg"
+    },
+    {
+        "id": "GIOJJK15VE",
+        "first_name": "Diogo",
+        "last_name": "Jota",
+        "phone": "01309848283",
+        "category": "others",
+        "gender": "male",
+        "photo": "https:\/\/i2-prod.dailyrecord.co.uk\/article35492010.ece\/ALTERNATES\/s615\/2_JS358906215.jpg"
+    }
+]
