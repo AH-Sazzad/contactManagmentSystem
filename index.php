@@ -318,8 +318,8 @@ sort($categories);
                         <div class="list-group">
                             <?php foreach($filtered_contacts as $contact): ?>
                             <div class="list-group-item">
-                                <div class="d-flex align-items-start">
-                                    <img class="userImg " id="cover "src="<?php echo htmlspecialchars($contact['photo']); ?>" 
+                                <div class="d-flex gap-4 align-items-start">
+                                    <img class="userImg " id="cover"src="<?php echo htmlspecialchars($contact['photo']); ?>" 
                                         
                                     >
                                     <div class="flex-grow-1">

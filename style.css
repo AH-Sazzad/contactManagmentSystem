@@ -3,8 +3,8 @@
    
    
   border-radius: 50%; 
-  width: 80px;       
-  height: 80px;      
+  width: 7vw;       
+  height: 7vw;      
   object-fit: cover;  
 }
 
@@ -84,12 +84,13 @@ mark.bg-warning {
     .list-group-item {
         padding: 12px;
     }
-    
-   #cover{
-     border-radius: 50%; 
-  width: 80px;       
-  height: 80px;      
-  object-fit: cover;
-    
-   }
+    #cover {
+   
+   
+  border-radius: 50%; 
+  width: 100px;       
+  height: 100px;      
+  object-fit: cover;  
+}
+  
 }
